@@ -1,4 +1,4 @@
-<img align='right' src="https://giphy.com/embed/YJGcmZMP7ljIA" width="300" height="250">
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHViaW8wM2RrbXU5aXdjbWlnMWt4NzR6cnZqaGRoejYzZnJsYmprcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YJGcmZMP7ljIA/giphy.webp" width="300" height="250">
 
 <h1 align="center">⚡ Hi! I'm Marcus ⚡</h1>
 
