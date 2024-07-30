@@ -8,7 +8,7 @@
 
 - 🌱 I’m looking for a job
 - ✏️ Learning HTML, CSS, JS, Bootstrap, Jquery, Angular, React, Vue and UX  
-- 😄 Pronouns ro/ck
+- 😄 Pronouns rock/roll
 - 🎸 Always playing eletric guitar
 - 🎵 Everything is MUSIC!
 
