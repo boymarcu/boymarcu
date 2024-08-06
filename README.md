@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m looking for a job
-- ✏️ Learning HTML, CSS, JS, Bootstrap, Jquery, Angular, React, Vue and UX  
+- ✏️ Learning HTML, CSS, JS, Bootstrap, jQuery, Angular, React, Vue, TypeScript and UX 
 - 😄 Pronouns rock/roll
 - 🎸 Always playing eletric guitar
 - 🎵 Everything is MUSIC!
